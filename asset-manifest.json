@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/reactbulb/static/css/main.b096c20d.css",
-    "main.js": "/reactbulb/static/js/main.93b5cee3.js",
+    "main.css": "/reactbulb/static/css/main.70661412.css",
+    "main.js": "/reactbulb/static/js/main.4e34e459.js",
     "index.html": "/reactbulb/index.html",
-    "main.b096c20d.css.map": "/reactbulb/static/css/main.b096c20d.css.map",
-    "main.93b5cee3.js.map": "/reactbulb/static/js/main.93b5cee3.js.map"
+    "main.70661412.css.map": "/reactbulb/static/css/main.70661412.css.map",
+    "main.4e34e459.js.map": "/reactbulb/static/js/main.4e34e459.js.map"
   },
   "entrypoints": [
-    "static/css/main.b096c20d.css",
-    "static/js/main.93b5cee3.js"
+    "static/css/main.70661412.css",
+    "static/js/main.4e34e459.js"
   ]
 }
