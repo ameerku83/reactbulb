@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ 
+.position{
+    position: absolute;
+    min-width: 180px;
+    min-height: 140px;
+    background-color: yellow;
+    border-radius: 100px;
+    bottom: 45px;
+    left: 60px;
+    opacity: .8;
+    filter: blur(20px);
+}
+
+ button{
+    padding: 5px;
+    margin: 20px 440px;
+}
+
+@media screen and (max-width:425px) {
+    .bulb img {
+      width: 550px;
+    }
+    .position{
+        position: absolute;
+        min-width: 250px;
+        min-height: 210px;
+        background-color: yellow;
+        border-radius: 100px;
+        bottom: 100px;
+        left: 150px;
+        opacity: .8;
+        filter: blur(20px);
+    }
+    button{
+        padding: 10px;
+        margin: 20px 520px;
+        font-size: 30px;
+    }
+}
